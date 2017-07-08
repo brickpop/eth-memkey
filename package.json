@@ -16,6 +16,10 @@
     "utilities"
   ],
   "author": "Jordi Moraleda <jordi@tvrbo.pro>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ledfusion/memkey.git"
+  },
   "license": "ISC",
   "preferGlobal": true,
   "directories": {

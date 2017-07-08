@@ -1,0 +1,29 @@
+{
+  "name": "memkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethereum",
+    "memory",
+    "key",
+    "address",
+    "misc",
+    "tools",
+    "utilities"
+  ],
+  "author": "Jordi Moraleda <jordi@tvrbo.pro>",
+  "license": "ISC",
+  "preferGlobal": true,
+  "directories": {
+    "bin": "./bin"
+  },
+  "dependencies": {
+    "ethereumjs-util": "^5.1.2",
+    "web3": "^0.19.1",
+    "yargs": "^8.0.2"
+  }
+}
